@@ -9,7 +9,7 @@ We currently support 2 hooks:
 * `onKeyPurchaseHook`: called when a key purchase is triggered
 * `onKeyCancelHook`: called when a key is canceled.
 
-Here are 2 examples of usage for the hook: the abolity to require the purchasers of membership to provide a secret code to successfuly purchase memberships.
+Here are 2 examples of usage for the hook: the ability to require the purchasers of membership to provide a secret code to successfuly purchase memberships.
 
 ## Code Required Hook
 
